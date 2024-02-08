@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Intiation à JS/Exo1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Exo2"
+	}
+}
